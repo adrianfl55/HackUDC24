@@ -5,13 +5,13 @@
 
 Nuestra entrega a HackUDC 2024
 
-# Proyecto por:
+# Realizado por:
 
 - Pablo Fernández
 - Adrián Freijeiro
 - Xoel García
 - Antón Liñares
 
-# Liccencia
+# Licencia
 Proyecto licenciado bajo la AGPL 3.0.
 Licencia completa en [LICENSE](LICENSE)
